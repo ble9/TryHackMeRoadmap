@@ -903,27 +903,10 @@
 
 - [ ] [TryHackMe | 25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
 
-- [ ] [TryHackMe | Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
-
-- [ ] [TryHackMe | Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
-
-- [ ] [TryHackMe | Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
-
-- [ ] [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
-
-- [ ] [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
-
-- [ ] [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
-
-- [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
-
-- [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
-
+- [ ] [TryHackMe | Advent of Cyber 1 [2025]](https://tryhackme.com/adventofcyber25)
 
 Information
 ------------------
-
-Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
 
 License💀: [MIT License](https://opensource.org/licenses/MIT)
 
